@@ -1,24 +1,33 @@
-# Dinner Report: Le Bernardin
+# Dinner Plans with friend
 
-## Restaurant Overview
-- **Name**: Le Bernardin
-- **Address**: 155 W 51st St, New York, NY 10019
-- **Phone**: (212) 554-1515
-- **Website**: [le-bernardin.com](http://le-bernardin.com)
+## Restaurant Options
 
-## Cuisine
-Le Bernardin specializes in refined seafood dishes, crafted with the utmost respect for the ingredients. The menu includes a variety of seafood preparations, with an emphasis on freshness and simplicity.
+### Biryani Pot
+- **Address:** 758 Downtowner Blvd, Mobile, AL 36609
+- **Phone:** (251) 888-0999
+- **Menu Highlights:**
+  - Chicken Curry
+  - Garlic Naan
+  - Tandoori Chicken
+  - Veg Samosa
+  - Mango Lassi
+- **Reviews:**
+  - ⭐️ 4.5/5 (116 ratings)
+  - "The chicken korma was the best I've ever had... The food was hot and fresh and the sauces were very good." 
+  - "The Chilli Chicken and pepper fish curry were especially tasty."
 
-## Menu Highlights
-- **Tuna Tartare**: Diced raw tuna, served with toasted sesame and avocado.
-- **Wild Salmon**: Lightly cooked, served with a warm ginger-soy emulsion and bok choy.
-- **Poached Lobster**: Accompanied by truffle butter and a delicate sauce.
-- **Chocolate Soufflé**: A classic dessert, rich and airy.
+### Tandoor Indian Cuisine
+- **Address:** 3674 Airport Blvd, Mobile, AL 36608
+- **Phone:** (251) 341-6171
+- **Menu Highlights:**
+  - Garlic Naan
+  - Chef's Special Biryani
+  - Lamb Tikka Masala
+  - Authentic Indian food buffet available on weekends.
+- **Reviews:**
+  - ⭐️ 88% recommend (263 Reviews)
+  - "The service was amazing, and the ambiance is inviting and calm."
+  - "Everything was wonderful!"
 
-## Ambiance
-The atmosphere at Le Bernardin is elegant and serene, characterized by minimalist decor and a focus on the dining experience.
-
-## Summary of Reviews
-Le Bernardin has consistently received rave reviews for its exceptional cuisine and impeccable service. It is a three-Michelin star restaurant, recognized as one of the best seafood restaurants not only in New York but also in the world. Diners emphasize the harmonious flavors and the artistry of the dishes, making it a top choice for special occasions.
-
-**In conclusion**, Le Bernardin represents the pinnacle of fine dining, offering diners an unforgettable experience centered around seafood excellence.
+## Conclusion
+You can choose either Biryani Pot or Tandoor Indian Cuisine for dinner with Vishaharaj. Both offer excellent Indian cuisine with great reviews and a welcoming atmosphere.
